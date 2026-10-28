@@ -23,6 +23,38 @@ height: 500px;
     /* margin-top: 300px; */
 }
 
+.teeth{
+display: inline-block;
+background-color: rgb(255, 255, 255);
+border: 2px solid rgb(255, 255, 255);
+width: 30px;
+height: 30px;
+margin : 0 auto;
+margin-top: 30px;
+margin-left: 10px;
+
+}
+
+#tongue{
+background-color: red;
+border: 2px solid red;
+width: 160px;
+height: 100px;
+margin: 0 auto;
+margin-top: 45px;
+
+}
+
+#tongueSlip{
+background-color: #0e0202;
+border: 2px solid #0e0202; 
+width: 5px;
+height:85px;
+margin: 0 auto;
+margin-top:-10px;
+
+
+}
 .eye{
     display: inline-block;
     background-color: rgb(253, 253, 253);
